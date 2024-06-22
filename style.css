@@ -1,0 +1,8 @@
+.message-bubble {
+    -fx-background-color: #e0ffe0;
+    -fx-padding: 10;
+    -fx-background-radius: 15;
+    -fx-border-radius: 15;
+    -fx-border-color: #c0c0c0;
+    -fx-border-width: 1;
+}
